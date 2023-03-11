@@ -201,6 +201,6 @@ Feel free to contribute, and add your name to the credits, please use the develo
 
 this is some text added in branch1
 
-some more text
+some more text in branch1
 
 and some more
